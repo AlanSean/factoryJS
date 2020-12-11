@@ -1,0 +1,1 @@
+export { default as newcopyText} from './newcopyText';
